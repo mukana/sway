@@ -76,6 +76,6 @@
     "path-to-regexp": "^1.7.0",
     "swagger-methods": "^1.0.0",
     "swagger-schema-official": "2.0.0-bab6bed",
-    "z-schema": "https://github.com/mukana-lahtelat/z-schema.git"
+    "z-schema": "git+https://git.mukana.info/public-libraries/z-schema.git"
   }
 }
